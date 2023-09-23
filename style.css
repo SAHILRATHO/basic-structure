@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+.HEADER{
+    margin: 3px;
+    text-align: center;
+    border:2px solid black; 
+    width:99%;
+    height: 80px;
+}
+
+.NAV{
+    margin: 3px;
+    text-align: center;
+    border:2px solid black; 
+    width:99%;
+    height: 80px;
+}
+.SECTION-1{ 
+    margin-right: 2px;
+    text-align: center;
+    border:2px solid black; 
+    width:49%;
+    height: 380px;
+    float: left;
+}
+.SECTION-2{ 
+    text-align: center;
+    border:2px solid black; 
+    width:50%;
+    height: 380px;
+    float: left;
+}
+.FOOTER{
+    margin: 3px;
+    text-align: center;
+    border:2px solid  black; 
+    width:99%;
+    height: 80px;
+    margin-top:390px;
+}
